@@ -20,6 +20,7 @@
   [![Docker Pulls](https://img.shields.io/docker/pulls/decolua/nexus.svg?logo=docker&label=Docker%20pulls)](https://hub.docker.com/r/decolua/nexus)
   [![GHCR](https://img.shields.io/badge/GHCR-decolua%2Fnexus-blue?logo=github)](https://github.com/decolua/nexus/pkgs/container/nexus)
   [![License](https://img.shields.io/npm/l/nexus.svg)](https://github.com/decolua/nexus/blob/main/LICENSE)
+  <a href="https://github.com/decolua/nexus"><img src="https://img.shields.io/github/stars/decolua/nexus?style=flat-square&logo=github&label=Stars" alt="GitHub stars"/></a>
 
 <a href="https://trendshift.io/repositories/22628" target="_blank"><img src="https://trendshift.io/api/badge/repositories/22628" alt="decolua%2Fnexus | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
