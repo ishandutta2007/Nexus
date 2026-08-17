@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"],
+      "engine": ["./engine"],
+      "engine/*": ["./engine/*"]
+    },
+    "module": "ESNext",
+    "moduleResolution": "bundler"
+  }
+}
