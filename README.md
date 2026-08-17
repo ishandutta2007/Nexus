@@ -275,7 +275,7 @@ Nexus works seamlessly with all major AI coding tools:
 > **OpenCode Free** model list fluctuates over time (some models free only for limited promos) — subject to change without notice.
 > **Vertex AI**: the $300 free credit for new GCP accounts is still valid, but since Mar 2026 the **Gemini API endpoint no longer consumes these credits** — call the **Vertex AI Studio** endpoint instead.
 
-### 🔑 API Key Providers (40+)
+### 🔑 API Key Providers (~50)
 
 <div align="center">
   <table>
@@ -600,7 +600,7 @@ Seamless translation between formats:
  |                     | OpenCode Free         | $0           | Varies*          | No auth, auto-fetch models (list changes over time) |
  |                     | Vertex AI             | $300 credits | New GCP accounts | Gemini 3 Pro + DeepSeek + GLM-5 (use Vertex AI Studio endpoint for free credits) |
 
-**💡 Pro Tip:** RTK + Kiro AI + OpenCode Free combo = **$0 cost + 20-40% token savings**!
+**💡 Pro Tip:** RTK + Kiro AI + OpenCode Free combo = **$0 cost + 25-50% token savings**!
 
 ---
 
