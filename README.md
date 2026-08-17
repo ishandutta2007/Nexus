@@ -1,3 +1,10 @@
+<!--
+  Nexus — FREE AI Router & Token Saver
+  Keywords: OpenAI-compatible API gateway, AI router, LLM routing proxy, token saver,
+  RTK token compression, free AI models, Claude Code, Cursor, Codex, Copilot, Cline,
+  multi-provider fallback, multi-account round-robin, self-hosted AI gateway, local LLM
+  router, token savings, quota tracking, open-source AI gateway.
+-->
 <div align="center">
   <img src="./assets/banner.svg" alt="Nexus - FREE AI Router & Token Saver" width="100%"/>
   
@@ -20,6 +27,15 @@
 [🇧🇷 Português (Brasil)](./i18n/README.pt-BR.md) • [🇻🇳 Tiếng Việt](./i18n/README.vi.md) • [🇨🇳 中文](./i18n/README.zh-CN.md) • [🇯🇵 日本語](./i18n/README.ja-JP.md) • [🇷🇺 Русский](./i18n/README.ru.md) • [🇹🇭 ไทย](./i18n/README.th.md) • [🇮🇷 فارسی](./i18n/README.fa_IR.md) • [🇮🇩 Indonesia](./i18n/README.id-ID.md) • [🇪🇸 Español](./i18n/README.es.md) • [🇫🇷 Français](./i18n/README.fr.md)
 
 </div>
+
+---
+
+> **Nexus** is an **open-source, OpenAI-compatible AI gateway** that routes your coding
+> assistants (Claude Code, Cursor, Codex, Copilot, Cline, OpenClaw and more) to **40+
+> AI providers and 100+ models** — with automatic multi-tier fallback, multi-account
+> round-robin, format translation, quota tracking and a built-in **RTK token saver**
+> that cuts token usage by 20-40%. Self-host it locally with one command and never
+> stop coding.
 
 ---
 
