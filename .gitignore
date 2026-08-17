@@ -89,7 +89,7 @@ graphify-out/*
 
 engine
 gitbook
-test
+tests
 
 engine/handlers/ttsProviders/edgeTts.js
 engine/providers/registry/antigravity.js
