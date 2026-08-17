@@ -14,6 +14,7 @@
   
   **Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models.**
   
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   [![npm](https://img.shields.io/npm/v/nexus.svg)](https://www.npmjs.com/package/nexus)
   [![Downloads](https://img.shields.io/npm/dm/nexus.svg)](https://www.npmjs.com/package/nexus)
   [![Docker Pulls](https://img.shields.io/docker/pulls/decolua/nexus.svg?logo=docker&label=Docker%20pulls)](https://hub.docker.com/r/decolua/nexus)
