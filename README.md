@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/nexus.png?1" alt="Nexus Dashboard" width="800"/>
+  <img src="./assets/banner.svg" alt="Nexus - FREE AI Router & Token Saver" width="100%"/>
   
   # Nexus - FREE AI Router & Token Saver
   
