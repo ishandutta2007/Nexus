@@ -1,0 +1,124 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/.next-cli-build/
+/out/
+cli/.build-home/
+product
+# production
+/build
+.idea/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+!.env.example
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+.bin/*
+data/
+logs/*
+source/*
+.cursor/*
+docs/*
+!docs/ARCHITECTURE.md
+test/*
+engine/test/*
+RM.vn.md
+RM.md
+cursor/*
+PUBLIC.md
+Thanks.md
+PUBLIC.en.md
+PR/*
+package-lock.json
+
+
+#Ignore vscode AI rules
+.github/instructions/codacy.instructions.md
+README1.md
+deploy*.sh
+ecosystem.config.*
+
+scripts/agSniffer/*
+gitbooks/*
+gitbook/README.md
+
+# Refactor backup reference (do not bundle/lint)
+engine.old/
+.graphifyignore
+graphify-out/*
+
+# Local-only working dirs (notes, vendored repos, scripts, skills)
+.claude/
+.docs/
+.repo/
+.script/
+.codegraph/
+.PR/
+.next-analyze/*
+
+engine
+gitbook
+test
+
+engine/handlers/ttsProviders/edgeTts.js
+engine/providers/registry/antigravity.js
+engine/providers/registry/gemini-cli.js
+engine/providers/registry/gemini.js
+engine/providers/registry/iflow.js
+engine/providers/registry/windsurf.js
+engine/providers/shared.js
+gitbook/content/en/features/combos.md
+gitbook/content/en/getting-started/installation.md
+gitbook/content/en/integration/other-tools.md
+gitbook/content/en/troubleshooting.md
+gitbook/content/es/features/combos.md
+gitbook/content/es/getting-started/installation.md
+gitbook/content/es/integration/other-tools.md
+gitbook/content/es/troubleshooting.md
+gitbook/content/ja/features/combos.md
+gitbook/content/ja/getting-started/installation.md
+gitbook/content/ja/integration/other-tools.md
+gitbook/content/ja/troubleshooting.md
+gitbook/content/vi/features/combos.md
+gitbook/content/vi/getting-started/installation.md
+gitbook/content/vi/integration/other-tools.md
+gitbook/content/vi/troubleshooting.md
+gitbook/content/zh-CN/features/combos.md
+gitbook/content/zh-CN/getting-started/installation.md
+gitbook/content/zh-CN/integration/other-tools.md
+gitbook/content/zh-CN/troubleshooting.md
+src/lib/oauth/constants/oauth.js
+tests/__baseline__/providers-baseline.json
+tests/unit/antigravity-oauth-client.test.js
+tests/unit/embeddings.cloud.test.js
