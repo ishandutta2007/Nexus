@@ -73,7 +73,7 @@ Result: Never stop coding, minimal cost + 20-40% token savings via RTK
 
 ## ⚡ Quick Start
 
-**1. Install globally:**
+**1️⃣ Install globally:**
 
 ```bash
 npm install -g nexus
@@ -82,11 +82,11 @@ nexus
 
 🎉 Dashboard opens at `http://localhost:20128`
 
-**2. Connect a FREE provider (no signup needed):**
+**2️⃣ Connect a FREE provider (no signup needed):**
 
 Dashboard → Providers → Connect **Kiro AI** (~50 credits/month free: Claude 4.5 + GLM-5 + MiniMax) or **OpenCode Free** (no auth) → Done!
 
-**3. Use in your CLI tool:**
+**3️⃣ Use in your CLI tool:**
 
 ```
 Claude Code/Codex/OpenClaw/Cursor/Cline Settings:
@@ -95,7 +95,7 @@ Claude Code/Codex/OpenClaw/Cursor/Cline Settings:
   Model: kr/claude-sonnet-4.5
 ```
 
-**That's it!** Start coding with FREE AI models.
+**That's it!** 🚀 Start coding with FREE AI models.
 
 **Alternative: run from source (this repository):**
 
@@ -825,7 +825,7 @@ Nexus's smart fallback prevents surprise charges:
 <details>
 <summary><b>🔐 Subscription Providers (Maximize Value)</b></summary>
 
-### Claude Code (Pro/Max)
+### 🔐 Claude Code (Pro/Max)
 
 ```bash
 Dashboard → Providers → Connect Claude Code
@@ -839,9 +839,9 @@ Models:
   cc/claude-haiku-4-5-20251001
 ```
 
-**Pro Tip:** Use Opus for complex tasks, Sonnet for speed. Nexus tracks quota per model!
+**✨ Pro Tip:** Use Opus for complex tasks, Sonnet for speed. Nexus tracks quota per model!
 
-### OpenAI Codex (Plus/Pro)
+### 🤖 OpenAI Codex (Plus/Pro)
 
 ```bash
 Dashboard → Providers → Connect Codex
@@ -855,7 +855,7 @@ Models:
   cx/gpt-5.2-codex
 ```
 
-### GitHub Copilot
+### 👨‍💻 GitHub Copilot
 
 ```bash
 Dashboard → Providers → Connect GitHub
@@ -870,7 +870,7 @@ Models:
   gh/grok-code-fast-1
 ```
 
-### Cursor IDE
+### 🖱️ Cursor IDE
 
 ```bash
 Dashboard → Providers → Connect Cursor
@@ -888,7 +888,7 @@ Models:
 <details>
 <summary><b>💰 Cheap Providers (Backup)</b></summary>
 
-### GLM-5.1 / GLM-4.7 (Daily reset, $0.6/1M)
+### 💰 GLM-5.1 / GLM-4.7 (Daily reset, $0.6/1M)
 
 1. Sign up: [Zhipu AI](https://open.bigmodel.cn/)
 2. Get API key from Coding Plan
@@ -898,9 +898,9 @@ Models:
 
 **Use:** `glm/glm-5.1`, `glm/glm-5`, `glm/glm-4.7`
 
-**Pro Tip:** Coding Plan offers 3× quota at 1/7 cost! Reset daily 10:00 AM.
+**✨ Pro Tip:** Coding Plan offers 3× quota at 1/7 cost! Reset daily 10:00 AM.
 
-### MiniMax M2.7 (5h reset, $0.20/1M)
+### ⚡ MiniMax M2.7 (5h reset, $0.20/1M)
 
 1. Sign up: [MiniMax](https://www.minimax.io/)
 2. Get API key
@@ -908,9 +908,9 @@ Models:
 
 **Use:** `minimax/MiniMax-M2.7`, `minimax/MiniMax-M2.5`
 
-**Pro Tip:** Cheapest option for long context (1M tokens)!
+**✨ Pro Tip:** Cheapest option for long context (1M tokens)!
 
-### Kimi K2.5 ($9/month flat)
+### 🧠 Kimi K2.5 ($9/month flat)
 
 1. Subscribe: [Moonshot AI](https://platform.moonshot.ai/)
 2. Get API key
@@ -918,14 +918,14 @@ Models:
 
 **Use:** `kimi/kimi-k2.5`, `kimi/kimi-k2.5-thinking`
 
-**Pro Tip:** Fixed $9/month for 10M tokens = $0.90/1M effective cost!
+**✨ Pro Tip:** Fixed $9/month for 10M tokens = $0.90/1M effective cost!
 
 </details>
 
 <details>
 <summary><b>🆓 FREE Providers (Recommended)</b></summary>
 
-### Kiro AI (Claude 4.5 + GLM-5 + MiniMax FREE)
+### 🆓 Kiro AI (Claude 4.5 + GLM-5 + MiniMax FREE)
 
 ```bash
 Dashboard → Connect Kiro
@@ -941,9 +941,9 @@ Models:
   kr/deepseek-3.2
 ```
 
-**Pro Tip:** Best free option for Claude. No API key, no payment, fully unlimited.
+**✨ Pro Tip:** Best free option for Claude. No API key, no payment, fully unlimited.
 
-### OpenCode Free (No auth, auto-fetch models)
+### 🚀 OpenCode Free (No auth, auto-fetch models)
 
 ```bash
 Dashboard → Connect OpenCode Free
@@ -951,9 +951,9 @@ Dashboard → Connect OpenCode Free
 → Models auto-fetched from opencode.ai/zen/v1/models
 ```
 
-**Pro Tip:** Fastest setup. Just connect and start coding.
+**✨ Pro Tip:** Fastest setup. Just connect and start coding.
 
-### Vertex AI ($300 free credits for new GCP accounts)
+### 🧊 Vertex AI ($300 free credits for new GCP accounts)
 
 ```bash
 Dashboard → Connect Vertex AI
@@ -971,14 +971,14 @@ Vertex Partner (Anthropic / DeepSeek / GLM / Qwen via Vertex):
   vertex-partner/qwen3-next-80b-a3b-thinking-maas
 ```
 
-**Pro Tip:** New Google Cloud accounts get $300 credits free for 90 days. Plenty for daily coding.
+**✨ Pro Tip:** New Google Cloud accounts get $300 credits free for 90 days. Plenty for daily coding.
 
 </details>
 
 <details>
 <summary><b>🎨 Create Combos</b></summary>
 
-### Example 1: Maximize Subscription → Cheap Backup
+### 📦 Example 1: Maximize Subscription → Cheap Backup
 
 ```
 Dashboard → Combos → Create New
@@ -998,7 +998,7 @@ Monthly cost example (100M tokens):
   Total: $10 + your subscription
 ```
 
-### Example 2: Free-Only (Zero Cost)
+### 📦 Example 2: Free-Only (Zero Cost)
 
 ```
 Name: free-combo
@@ -1015,7 +1015,7 @@ Cost: $0 forever (+ 20-40% token savings via RTK)!
 <details>
 <summary><b>🔧 CLI Integration</b></summary>
 
-### Cursor IDE
+### 🖱️ Cursor IDE
 
 ```
 Settings → Models → Advanced:
@@ -1026,7 +1026,7 @@ Settings → Models → Advanced:
 
 Or use combo: `premium-coding`
 
-### Claude Code
+### 🐙 Claude Code
 
 Edit `~/.claude/config.json`:
 
@@ -1037,7 +1037,7 @@ Edit `~/.claude/config.json`:
 }
 ```
 
-### Codex CLI
+### 🤖 Codex CLI
 
 ```bash
 export OPENAI_BASE_URL="http://localhost:20128"
@@ -1046,7 +1046,7 @@ export OPENAI_API_KEY="your-nexus-api-key"
 codex "your prompt"
 ```
 
-### OpenClaw
+### 🐾 OpenClaw
 
 **Option 1 — Dashboard (recommended):**
 
@@ -1085,7 +1085,7 @@ Dashboard → CLI Tools → OpenClaw → Select Model → Apply
 
 > **Note:** OpenClaw only works with local Nexus. Use `127.0.0.1` instead of `localhost` to avoid IPv6 resolution issues.
 
-### Cline / Continue / RooCode
+### 🧩 Cline / Continue / RooCode
 
 ```
 Provider: OpenAI Compatible
@@ -1099,7 +1099,7 @@ Model: cc/claude-opus-4-7
 <details>
 <summary><b>🚀 Deployment</b></summary>
 
-### VPS Deployment
+### ☁️ VPS Deployment
 
 ```bash
 # Clone and install
@@ -1130,7 +1130,7 @@ pm2 save
 pm2 startup
 ```
 
-### Docker
+### 🐳 Docker
 
 Published images (multi-platform `linux/amd64` + `linux/arm64`):
 
@@ -1176,7 +1176,7 @@ docker pull decolua/nexus:latest   # update to latest
 
 **Data persistence:** `$HOME/.nexus/db/data.sqlite` on host ↔ `/app/data/db/data.sqlite` in container.
 
-### Environment Variables
+### 🔧 Environment Variables
 
 | Variable                                             | Default                                  | Description                                                                         |
 | ---------------------------------------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -1205,7 +1205,7 @@ Notes:
 - On Windows, `APPDATA` can be used for local storage path resolution.
 - `INSTANCE_NAME` appears in older docs/env templates, but is currently not used at runtime.
 
-### Runtime Files and Storage
+### 📂 Runtime Files and Storage
 
 - Main app state: `${DATA_DIR}/db/data.sqlite` (SQLite — providers, combos, aliases, keys, settings, usage history)
 - Auto backups: `${DATA_DIR}/db/backups/`
@@ -1345,7 +1345,7 @@ Notes:
 
 ## 📝 API Reference
 
-### Chat Completions
+### 💬 Chat Completions
 
 ```bash
 POST http://localhost:20128/v1/chat/completions
@@ -1361,7 +1361,7 @@ Content-Type: application/json
 }
 ```
 
-### List Models
+### 📋 List Models
 
 ```bash
 GET http://localhost:20128/v1/models
